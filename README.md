@@ -24,15 +24,15 @@
 
 ## Interactive Portfolio Web App
 
-> **The interactive, dark-themed React 19 Developer Portfolio is live!**  
+> **The interactive, Developer Portfolio is live!**  
 > Explore live GitHub API explorers, system architecture modals, interactive terminal commands, and verified credentials:  
-> **[Click here to launch the full Interactive Portfolio UI](https://adityachanguli37-a11y.github.io/portfolio/)**
+> **[Click here to launch Portfolio UI](https://adityachanguli37-a11y.github.io/portfolio/)**
 
 ```bash
 └─$ aditya --status
-[✓] Status       : Actively interviewing for Full-Stack & Software Engineering Roles
-[✓] Education    : Master of Computer Applications (MCA), Srinivas University (2024–2026)
-[✓] Bachelor's   : B.Sc in Electronics, Physics & Mathematics, Mangalore University (CGPA: 8.25)
+[✓] Status       : Open to Work
+[✓] Education    : Master of Computer Applications (MCA), Srinivas University (2025–2027)
+[✓] Degree       : B.Sc in Computer Science & Mathematics, Mangalore University (CGPA: 8.25)
 [✓] Research     : SACF-DNA (Secure Access Control Framework for Synthetic DNA Storage)
 [✓] Core Stack   : Python • React 19 • Node.js • TypeScript • Express • MongoDB • Electron
 ```
@@ -64,7 +64,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 PlacementPro</h3>
+      <h3 align="center"> PlacementPro</h3>
       <p align="center">
         <b>Enterprise Campus Career & Placement Management Suite</b>
       </p>
@@ -86,7 +86,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 Hospital Self-Service Kiosk</h3>
+      <h3 align="center"> Hospital Self-Service Kiosk</h3>
       <p align="center">
         <b>Touchless Healthcare Intake & AI Triage Kiosk</b>
       </p>
@@ -105,7 +105,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧬 SACF-DNA Research</h3>
+      <h3 align="center"> SACF-DNA Research</h3>
       <p align="center">
         <b>Secure Access Control Framework for Synthetic DNA Storage</b>
       </p>
@@ -127,14 +127,6 @@
 ---
 
 ## Technologies & Engineering Stack
-
-<div align="center">
-
-<!-- Modern Dynamic Icon Grid -->
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,electron,nodejs,express,flask,mongodb,postgres,sqlite,tensorflow,opencv,docker,git,githubactions,linux,vscode&perline=10" alt="Aditya CS Tech Stack" />
-
-</div>
-
 <br/>
 
 | Category | Official Tech Stack & Tools |
