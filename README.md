@@ -1,4 +1,8 @@
 # <div align="center">Aditya C S</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Aditya%20C%20S&fontSize=48&fontAlignY=38" width="100%" alt="Aditya C S Banner" />
+</div>
+
 
 <div align="center">
 
