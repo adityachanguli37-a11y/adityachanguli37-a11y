@@ -1,11 +1,11 @@
-# <div align="center">👨‍💻 Aditya C S</div>
+# <div align="center">Aditya C S</div>
 
 <div align="center">
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-adityachanguli37--a11y.github.io%2Fportfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adityachanguli37-a11y.github.io/portfolio/)
-[![Official Resume](https://img.shields.io/badge/📄_Verified_Resume-PDF_Download-2EA043?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://adityachanguli37-a11y.github.io/portfolio/Aditya_C_S_Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/✉️_Email-adityachanguli37%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityachanguli37@gmail.com)
+[![Live Portfolio](https://img.shields.io/badge/_Live_Portfolio-adityachanguli37--a11y.github.io%2Fportfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adityachanguli37-a11y.github.io/portfolio/)
+[![Official Resume](https://img.shields.io/badge/_Verified_Resume-PDF_Download-2EA043?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://adityachanguli37-a11y.github.io/portfolio/Aditya_C_S_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/_Email-adityachanguli37%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityachanguli37@gmail.com)
 
 </div>
 
@@ -22,14 +22,13 @@
 
 ---
 
-## ⚡ Interactive Portfolio Web App
+## Interactive Portfolio Web App
 
-> 🌟 **The interactive, dark-themed React 19 Developer Portfolio is live!**  
+> **The interactive, dark-themed React 19 Developer Portfolio is live!**  
 > Explore live GitHub API explorers, system architecture modals, interactive terminal commands, and verified credentials:  
-> 👉 **[Click here to launch the full Interactive Portfolio UI](https://adityachanguli37-a11y.github.io/portfolio/)**
+> **[Click here to launch the full Interactive Portfolio UI](https://adityachanguli37-a11y.github.io/portfolio/)**
 
 ```bash
-┌──(aditya@neuroshield)-[~/portfolio]
 └─$ aditya --status
 [✓] Status       : Actively interviewing for Full-Stack & Software Engineering Roles
 [✓] Education    : Master of Computer Applications (MCA), Srinivas University (2024–2026)
@@ -40,12 +39,12 @@
 
 ---
 
-## 🛡️ Flagship Engineering Projects
+## Flagship Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ NeuroShield</h3>
+      <h3 align="center"> NeuroShield</h3>
       <p align="center">
         <b>Continuous Adaptive Zero-Trust Cybersecurity System</b>
       </p>
@@ -127,7 +126,7 @@
 
 ---
 
-## 🛠️ Technologies & Engineering Stack
+## Technologies & Engineering Stack
 
 <div align="center">
 
@@ -149,7 +148,7 @@
 
 ---
 
-## 💼 Verified Professional Experience
+## Verified Professional Experience
 
 - **Full-Stack Development Intern** — *Workora*  
   *Engineered responsive client modules, optimized backend RESTful controllers, and implemented secure JWT-authenticated access routes.*
@@ -164,7 +163,7 @@
 
 ---
 
-## 📬 Connect & Collaborate
+## Connect & Collaborate
 
 <div align="center">
 
