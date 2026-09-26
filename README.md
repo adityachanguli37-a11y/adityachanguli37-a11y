@@ -160,7 +160,7 @@
   <img src="https://raw.githubusercontent.com/adityachanguli37-a11y/adityachanguli37-a11y/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" /><br/>
   <img src="https://raw.githubusercontent.com/adityachanguli37-a11y/adityachanguli37-a11y/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Top Languages by Repo" />
   <img src="https://raw.githubusercontent.com/adityachanguli37-a11y/adityachanguli37-a11y/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top Languages by Commit" /><br/>
-  <img src="https://raw.githubusercontent.com/adityachanguli37-a11y/adityachanguli37-a11y/main/profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/adityachanguli37-a11y/adityachanguli37-a11y/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub Stats" />
 </p>
 
 
