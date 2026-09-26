@@ -1,5 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Aditya%20C%20S&fontSize=48&fontAlignY=38" width="100%" alt="Aditya C S Banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0F2027,50:203A43,100:2C5364&text=ADITYA%20C%20S&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&stroke=00E5FF&strokeWidth=1" width="100%" alt="Aditya C S Animated Banner"/>
+
+<p>
+  <b>MCA Postgraduate Scholar at Srinivas University</b> • 
+  <b>B.Sc Graduate from Mangalore University — CGPA: 8.25</b>
+</p>
+
+<p>
+  <b>Zero-Trust Security</b> •
+  <b>AI-Driven Applications</b> •
+  <b>Distributed Systems</b> •
+  <b>Full-Stack Development</b>
+</p>
+
 </div>
 
 
@@ -19,12 +33,6 @@
 </div>
 <p align="center">
   
-
-<p align="center">
-  <b>MCA Postgraduate Scholar (Srinivas University)</b> • <b>B.Sc Graduate (Mangalore University — CGPA: 8.25)</b><br/>
-  Specializing in <b>Zero-Trust Security Systems</b>, <b>Distributed Architectures</b>, and <b>Enterprise Full-Stack Applications</b>.
-</p>
-
 ---
 
 ## Interactive Portfolio Web App
