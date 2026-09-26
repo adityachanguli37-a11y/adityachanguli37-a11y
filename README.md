@@ -157,10 +157,10 @@
 
 ###  GitHub Analytics
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" /><br/>
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" /><br/>
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/adityachanguli37-a11y/adityachanguli37-a11y/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" /><br/>
+  <img src="https://raw.githubusercontent.com/adityachanguli37-a11y/adityachanguli37-a11y/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Top Languages by Repo" />
+  <img src="https://raw.githubusercontent.com/adityachanguli37-a11y/adityachanguli37-a11y/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top Languages by Commit" /><br/>
+  <img src="https://raw.githubusercontent.com/adityachanguli37-a11y/adityachanguli37-a11y/main/profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub Stats" />
 </p>
 
 
