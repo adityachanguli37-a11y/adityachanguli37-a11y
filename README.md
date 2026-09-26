@@ -60,7 +60,6 @@
       </p>
       <p align="center">
         <a href="https://github.com/adityachanguli37-a11y/NeuroShield"><b>View Repository »</b></a> •
-        <a href="https://adityachanguli37-a11y.github.io/portfolio/"><b>Architecture Modal »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -80,7 +79,6 @@
       </p>
       <p align="center">
         <a href="https://github.com/adityachanguli37-a11y/PlacementPro"><b>View Repository »</b></a> •
-        <a href="https://adityachanguli37-a11y.github.io/portfolio/"><b>System Breakdown »</b></a>
       </p>
     </td>
   </tr>
@@ -101,7 +99,6 @@
       </p>
       <p align="center">
         <a href="https://github.com/adityachanguli37-a11y/hospital-kiosk"><b>View Repository »</b></a> •
-        <a href="https://adityachanguli37-a11y.github.io/portfolio/"><b>Demo Preview »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
