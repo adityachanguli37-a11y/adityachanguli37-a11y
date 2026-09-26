@@ -17,6 +17,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EA043&center=true&vCenter=true&random=false&width=700&lines=Master+of+Computer+Applications+(MCA)+Scholar;Full-Stack+Software+Engineer+%26+System+Architect;Zero-Trust+Cybersecurity+%26+Biometrics+Researcher;Creator+of+NeuroShield+%26+PlacementPro" alt="Typing SVG" />
 </div>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh6ODRlcmswZWR2eTFoZW91NGt0Zjk3MjE1bHRiZGRvY2ZxZG40bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Developer Coding" />
+</p>
+
 
 <p align="center">
   <b>MCA Postgraduate Scholar (Srinivas University)</b> • <b>B.Sc Graduate (Mangalore University — CGPA: 8.25)</b><br/>
