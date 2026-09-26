@@ -4,7 +4,7 @@
 
 <p>
   <b>MCA Postgraduate Scholar at Srinivas University</b> • 
-  <b>B.Sc Graduate from Mangalore University — CGPA: 8.25</b>
+  <b>B.Sc Graduate from Mangalore University</b>
 </p>
 
 <p>
