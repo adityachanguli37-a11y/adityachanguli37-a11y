@@ -4,6 +4,14 @@ on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/**'
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -16,3 +24,6 @@ jobs:
         with:
           USERNAME: adityachanguli37-a11y
           BRANCH_NAME: main
+          UTC_OFFSET: 5.5
+          THEME: tokyonight
+          ANIMATION: load
