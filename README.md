@@ -5,22 +5,20 @@
 
 <div align="center">
 
-[![Live Portfolio](https://img.shields.io/badge/_Live_Portfolio-adityachanguli37--a11y.github.io%2Fportfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adityachanguli37-a11y.github.io/portfolio/)
-[![Official Resume](https://img.shields.io/badge/_Verified_Resume-PDF_Download-2EA043?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://adityachanguli37-a11y.github.io/portfolio/Aditya_C_S_Resume.pdf)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Explore_App-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://adityachanguli37-a11y.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/_Email-adityachanguli37%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityachanguli37@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-adityachanguli37%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityachanguli37@gmail.com)
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh6ODRlcmswZWR2eTFoZW91NGt0Zjk3MjE1bHRiZGRvY2ZxZG40bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" alt="Developer Coding" />
+</p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EA043&center=true&vCenter=true&random=false&width=700&lines=Master+of+Computer+Applications+(MCA)+Scholar;Full-Stack+Software+Engineer+%26+System+Architect;Zero-Trust+Cybersecurity+%26+Biometrics+Researcher;Creator+of+NeuroShield+%26+PlacementPro" alt="Typing SVG" />
 </div>
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh6ODRlcmswZWR2eTFoZW91NGt0Zjk3MjE1bHRiZGRvY2ZxZG40bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Developer Coding" />
-</p>
-
+  
 
 <p align="center">
   <b>MCA Postgraduate Scholar (Srinivas University)</b> • <b>B.Sc Graduate (Mangalore University — CGPA: 8.25)</b><br/>
