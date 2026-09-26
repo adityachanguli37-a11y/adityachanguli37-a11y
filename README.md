@@ -53,7 +53,11 @@
         Desktop-grade zero-trust defense engine featuring continuous keystroke dynamic biometric authentication, live MITRE ATT&CK lateral movement detection, and deceptive cryptographic Canary Vault decoys.
       </p>
       <p>
-        <b>Tech Stack:</b> <code>Electron</code> • <code>React</code> • <code>Node.js</code> • <code>Python</code> • <code>SQLite</code>
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
       </p>
       <p align="center">
         <a href="https://github.com/adityachanguli37-a11y/NeuroShield"><b>View Repository »</b></a> •
@@ -69,7 +73,11 @@
         Centralized university placement portal with complex multi-attribute eligibility filtering, automated ATS-compliant resume builder, and an automated conflict-free interview scheduler.
       </p>
       <p>
-        <b>Tech Stack:</b> <code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>MongoDB</code> • <code>JWT</code>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
       </p>
       <p align="center">
         <a href="https://github.com/adityachanguli37-a11y/PlacementPro"><b>View Repository »</b></a> •
@@ -87,7 +95,10 @@
         Automated outpatient intake terminal combining OpenCV facial recognition, government ID parsing, multilingual natural language voice assistance, and instant HL7/FHIR EHR sync.
       </p>
       <p>
-        <b>Tech Stack:</b> <code>Python</code> • <code>OpenCV</code> • <code>Flask</code> • <code>WebSockets</code> • <code>SQLite</code>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
       </p>
       <p align="center">
         <a href="https://github.com/adityachanguli37-a11y/hospital-kiosk"><b>View Repository »</b></a> •
@@ -103,7 +114,9 @@
         Postgraduate research initiative modeling role-based access control, cryptographic key encapsulation, and homomorphic error detection specifically optimized for biochemical macromolecule data archives.
       </p>
       <p>
-        <b>Scope:</b> <code>Cryptographic Architecture</code> • <code>Bioinformatics Security</code> • <code>Postgraduate Research</code>
+        <img src="https://img.shields.io/badge/Architecture-Zero--Trust-2EA043?style=flat-square&logo=vault&logoColor=white" alt="Zero-Trust"/>
+        <img src="https://img.shields.io/badge/Security-Cryptographic_KEM-58A6FF?style=flat-square&logo=auth0&logoColor=white" alt="Crypto"/>
+        <img src="https://img.shields.io/badge/Domain-Synthetic_DNA-D29922?style=flat-square" alt="DNA"/>
       </p>
       <p align="center">
         <a href="https://adityachanguli37-a11y.github.io/portfolio/"><b>Read Research Paper Abstract »</b></a>
@@ -114,32 +127,25 @@
 
 ---
 
-## 📊 Developer Metrics & GitHub Velocity
+## 🛠️ Technologies & Engineering Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityachanguli37-a11y&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F14&title_color=2EA043&icon_color=2EA043&text_color=8B949E" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityachanguli37-a11y&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F14&title_color=2EA043&text_color=8B949E" height="165" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityachanguli37-a11y&theme=tokyonight&hide_border=true&background=0B0F14&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" alt="GitHub Streak" />
+<!-- Modern Dynamic Icon Grid -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,electron,nodejs,express,flask,mongodb,postgres,sqlite,tensorflow,opencv,docker,git,githubactions,linux,vscode&perline=10" alt="Aditya CS Tech Stack" />
 
 </div>
 
----
+<br/>
 
-## 🛠️ Categorized Technical Expertise
-
-| Category | Technologies & Tools |
+| Category | Official Tech Stack & Tools |
 | :--- | :--- |
-| **Languages** | `Python`, `JavaScript (ES6+)`, `TypeScript`, `Java`, `C`, `C++`, `SQL`, `HTML5`, `CSS3` |
-| **Frontend Engineering** | `React 19`, `Vite`, `Electron`, `Next.js`, `Vanilla CSS Design Tokens`, `Responsive UI`, `A11y (WCAG)` |
-| **Backend & Microservices** | `Node.js`, `Express.js`, `Flask`, `REST APIs`, `JWT Auth`, `WebSockets`, `CORS`, `Microservices` |
-| **Cybersecurity & Systems** | `Zero-Trust Architecture`, `Keystroke Dynamics`, `MITRE ATT&CK Mapping`, `Deceptive Canary Tokens`, `RBAC` |
-| **AI, ML & Computer Vision** | `TensorFlow`, `scikit-learn`, `OpenCV`, `NumPy`, `Pandas`, `Matplotlib`, `Acoustic MFCC Analysis` |
-| **Databases & ORMs** | `MongoDB (Atlas)`, `PostgreSQL`, `MySQL`, `SQLite`, `Mongoose`, `Database Indexing & Normalization` |
-| **DevOps & Cloud Workflow** | `Git`, `GitHub Actions CI/CD`, `Linux / Bash`, `Docker`, `Vercel`, `Postman`, `Agile Development` |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
+| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **AI, ML & Vision** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ---
 
