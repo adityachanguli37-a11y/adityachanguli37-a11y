@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0F2027,50:203A43,100:2C5364&text=ADITYA%20C%20S&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&stroke=00E5FF&strokeWidth=1" width="100%" alt="Aditya C S Animated Banner"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,25:312E81,50:7C3AED,75:06B6D4,100:050505&text=ADITYA%20C%20S&fontSize=58&fontColor=8307A3&font=Orbitron&animation=twinkling&fontAlignY=55&stroke=C4FF30&strokeWidth=4" width="100%" alt="Aditya C S Animated Banner"/>
 <p>
   <b>MCA Postgraduate Scholar at Srinivas University</b> • 
   <b>B.Sc Graduate from Mangalore University</b>
